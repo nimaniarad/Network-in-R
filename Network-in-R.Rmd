@@ -7,6 +7,7 @@ output: rmarkdown::github_document
 
 <style> body {text-align: justify} </style> <!-- Justify text. -->
 
+
 **Making a Network in R 
 
 Sometimes there is a huge network of people in a company. Not just limited to the company itself but also includes people outside the company. 
